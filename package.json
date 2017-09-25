@@ -1,0 +1,18 @@
+{
+  "name": "hyperion-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A high contrast theme with nice, well-balanced colours.",
+  "keywords": [
+    "syntax",
+    "green",
+    "violet",
+    "blue",
+    "light"
+  ],
+  "repository": "https://github.com/protesilaos/hyperion-light-syntax",
+  "license": "GPL-3.0",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
