@@ -1,7 +1,7 @@
 {
   "name": "hyperion-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A high contrast theme with nice, well-balanced colours.",
   "keywords": [
     "syntax",
